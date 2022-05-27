@@ -3,6 +3,6 @@ This project displays the use of API's, Monte Carlo simulations, and different p
 <br> 
 <br>
 <p align="center">
-  ![](ZoYOIr5.gif)
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://i.imgur.com/ZoYOIr5.gif)">
 </p>
 
